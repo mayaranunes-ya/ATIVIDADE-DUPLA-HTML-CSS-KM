@@ -1,0 +1,30 @@
+body{
+    background-image: url(assets/sapoo.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    text-align:center;
+    color: rgb(4, 55, 4);
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+p { 
+  text-align:justify;
+  color: rgb(249, 248, 247);
+  font-size: 25px;
+  margin-left: auto;
+}
+button {
+    display: block;
+    margin: 35px auto;
+    background-color: rgb(2, 22, 7);
+    border-radius: 50px;
+}
+a{
+    display: block;
+    color: rgb(254, 252, 252);
+    text-decoration: none;
+    margin: 5px;
+}

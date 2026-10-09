@@ -1,0 +1,34 @@
+body{
+    background-image: url(assets/Gemini_Generated_Image_s33zk7s33zk7s33z.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h2{
+    text-align: center;
+    color: green;
+    font-size: 200px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p { 
+  text-align:left;
+  color:rgb(0, 0, 0);
+  font-size: 45px;
+}
+
+button {
+    display: block;
+    margin: 60px auto;
+    background-color: rgb(23, 14, 3);
+    border-radius: 50px;
+}
+
+a{
+    display: block;
+    color: rgb(243, 238, 238);
+    text-decoration: none;
+    margin: 20px;
+
+}
