@@ -1,0 +1,16 @@
+body{
+    background-image: url(assets/cachorro_fundo.avif);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color:cornsilk
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+
+}
