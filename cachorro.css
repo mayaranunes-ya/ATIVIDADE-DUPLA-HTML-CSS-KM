@@ -1,12 +1,16 @@
 body{
-    background-image: url(assets/cachorro_fundo.avif);
+    background-image: url(assets/amarelo_fundo.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
 }
 
 h1 {
-    color:cornsilk
+    color:black
+}
+img {
+    mar
+
 }
 
 p {
