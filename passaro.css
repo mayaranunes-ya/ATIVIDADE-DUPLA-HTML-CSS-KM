@@ -1,0 +1,17 @@
+body { 
+       background-image: url(assets/passaro_fundo2.jpg);
+       background-attachment: fixed;
+       background-position: center;
+       background-size: cover;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+
+}
+h2 {
+    color: aliceblue;
+}
+p {
+    color: aliceblue;
+}
