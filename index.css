@@ -1,5 +1,5 @@
 body{
-    background-image: url(assets/fundo\ zoo.jpg);
+    background-image: url(assets/verdefundo\ zoo.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -7,22 +7,23 @@ body{
 
 h2{
     text-align: center;
-    color: rgb(224, 184, 99);
+    color: rgb(42, 21, 7);
     font-size: 200px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 p {
   text-align:left;
-  color:rgb(238, 67, 29);
-  font-size: 45px;
+  color:rgb(251, 249, 249);
+  font-size: 20px;
+
 }
 
 button {
     display: block;
     margin: 60px auto;
     background-color: rgb(23, 14, 3);
-    border-radius: 50px;
+    border-radius: 15px;
 }
 
 a{
