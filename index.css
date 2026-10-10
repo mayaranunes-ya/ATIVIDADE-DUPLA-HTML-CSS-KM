@@ -1,5 +1,5 @@
 body{
-    background-image: url(assets/Gemini_Generated_Image_s33zk7s33zk7s33z.jpg);
+    background-image: url(assets/fundo\ zoo.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -7,14 +7,14 @@ body{
 
 h2{
     text-align: center;
-    color: green;
+    color: rgb(224, 184, 99);
     font-size: 200px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 p { 
   text-align:left;
-  color:rgb(0, 0, 0);
+  color:rgb(238, 67, 29);
   font-size: 45px;
 }
 

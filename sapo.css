@@ -1,14 +1,14 @@
 body{
-    background-image: url(assets/sapoo.jpg);
+    background-image: url(assets/fundo.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
 }
 h1 {
     text-align:center;
-    color: rgb(4, 55, 4);
-    font-size: 100px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    color: rgb(6, 51, 6);
+    font-size: 110px;
+
 }
 p { 
   text-align:justify;
@@ -27,4 +27,10 @@ a{
     color: rgb(254, 252, 252);
     text-decoration: none;
     margin: 5px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
