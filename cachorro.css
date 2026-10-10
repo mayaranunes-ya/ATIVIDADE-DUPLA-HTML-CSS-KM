@@ -8,11 +8,12 @@ body{
 h1 {
     color:black
 }
+
 img {
-    mar
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
 p {
     font-family: 'Courier New', Courier, monospace;
     text-align: justify;
