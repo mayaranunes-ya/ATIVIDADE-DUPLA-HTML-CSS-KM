@@ -1,17 +1,30 @@
 body { 
-       background-image: url(assets/passaro_fundo2.jpg);
+       background-image: url(assets/azul_fundo.jpg);
        background-attachment: fixed;
        background-position: center;
        background-size: cover;
 }
 h1 {
+    text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: aliceblue;
+    color: black
 
 }
 h2 {
-    color: aliceblue;
+    color: black
 }
 p {
-    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    color: black
+}button {
+    display: block;
+    margin: 35px auto;
+    background-color: rgb(28, 137, 143);
+    border-radius: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

@@ -1,18 +1,34 @@
 body{
-    background-image: url(assets/gato_fundo.avif);
+    background-image: url(assets/roxa_fundo.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
 }
 h1 {
+    text-align: center;
     color:aliceblue
 }
 h2{
     color: aliceblue;
 }
 p{
+    font-family: 'Courier New', Courier, monospace;
     color: aliceblue
 }
 p {
+    font-family: 'Courier New', Courier, monospace;
     color:aliceblue
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    display: block;
+    margin: 35px auto;
+    background-color: rgb(233, 236, 236);
+    border-radius: 50px;
 }
